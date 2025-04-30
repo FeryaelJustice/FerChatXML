@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FerChatXML</string>
+
+    <!-- Main -->
+    <string name="welcome_message">Bienvenido a FerChat</string>
+    <string name="welcome_message_subtitle">El mejor chat del mundo.</string>
+    <string name="username_hint">Introduce tu nombre</string>
+    <string name="start_chat">Chat</string>
+
+    <!-- Chat -->
+    <string name="send_message_hint">Envia tu mensaje</string>
+    <string name="send_string">Enviar</string>
+
+    <!-- Accesibility -->
+    <string name="logo_contentdescription">Logo</string>
+    <string name="icon_back_contentdescription">icon back</string>
+    <string name="accessibility_closeSession">Close session icon</string>
+    <string name="ivUser_accessibility">Image view user other</string>
+    <string name="accessibility_isAdmin_starIcon">isAdmin star icon</string>
+    <string name="accessibility_rv">chat rv</string>
+</resources>

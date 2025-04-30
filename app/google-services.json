@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745968634460",
+    "project_id": "ferchatxml",
+    "storage_bucket": "ferchatxml.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745968634460:android:96769d4745da4908bc7499",
+        "android_client_info": {
+          "package_name": "com.feryaeldev.ferchatxml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMIz-SP2Cy5-Bf2u3HLi34JdvmDg5x-0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
